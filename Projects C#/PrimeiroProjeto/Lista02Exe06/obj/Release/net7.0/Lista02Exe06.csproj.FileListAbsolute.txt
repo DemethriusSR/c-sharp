@@ -1,0 +1,14 @@
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\bin\Release\net7.0\Lista02Exe06.exe
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\bin\Release\net7.0\Lista02Exe06.deps.json
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\bin\Release\net7.0\Lista02Exe06.runtimeconfig.json
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\bin\Release\net7.0\Lista02Exe06.dll
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\bin\Release\net7.0\Lista02Exe06.pdb
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\obj\Release\net7.0\Lista02Exe06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\obj\Release\net7.0\Lista02Exe06.AssemblyInfoInputs.cache
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\obj\Release\net7.0\Lista02Exe06.AssemblyInfo.cs
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\obj\Release\net7.0\Lista02Exe06.csproj.CoreCompileInputs.cache
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\obj\Release\net7.0\Lista02Exe06.dll
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\obj\Release\net7.0\refint\Lista02Exe06.dll
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\obj\Release\net7.0\Lista02Exe06.pdb
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\obj\Release\net7.0\Lista02Exe06.genruntimeconfig.cache
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Lista02Exe06\obj\Release\net7.0\ref\Lista02Exe06.dll

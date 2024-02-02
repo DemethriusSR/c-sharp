@@ -1,0 +1,14 @@
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\bin\Release\net7.0\Aulas.exe
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\bin\Release\net7.0\Aulas.deps.json
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\bin\Release\net7.0\Aulas.runtimeconfig.json
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\bin\Release\net7.0\Aulas.dll
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\bin\Release\net7.0\Aulas.pdb
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\obj\Release\net7.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\obj\Release\net7.0\Aulas.AssemblyInfoInputs.cache
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\obj\Release\net7.0\Aulas.AssemblyInfo.cs
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\obj\Release\net7.0\Aulas.csproj.CoreCompileInputs.cache
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\obj\Release\net7.0\Aulas.dll
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\obj\Release\net7.0\refint\Aulas.dll
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\obj\Release\net7.0\Aulas.pdb
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\obj\Release\net7.0\Aulas.genruntimeconfig.cache
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Aulas\obj\Release\net7.0\ref\Aulas.dll

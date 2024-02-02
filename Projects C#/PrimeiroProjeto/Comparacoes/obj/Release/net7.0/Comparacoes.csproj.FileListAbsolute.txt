@@ -1,0 +1,14 @@
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\bin\Release\net7.0\Comparacoes.exe
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\bin\Release\net7.0\Comparacoes.deps.json
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\bin\Release\net7.0\Comparacoes.runtimeconfig.json
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\bin\Release\net7.0\Comparacoes.dll
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\bin\Release\net7.0\Comparacoes.pdb
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\obj\Release\net7.0\Comparacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\obj\Release\net7.0\Comparacoes.AssemblyInfoInputs.cache
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\obj\Release\net7.0\Comparacoes.AssemblyInfo.cs
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\obj\Release\net7.0\Comparacoes.csproj.CoreCompileInputs.cache
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\obj\Release\net7.0\Comparacoes.dll
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\obj\Release\net7.0\refint\Comparacoes.dll
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\obj\Release\net7.0\Comparacoes.pdb
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\obj\Release\net7.0\Comparacoes.genruntimeconfig.cache
+C:\Users\mnsdrodr\Documents\Cursos\Udemy\C#\Projetos Estudos\PrimeiroProjeto\Comparacoes\obj\Release\net7.0\ref\Comparacoes.dll
