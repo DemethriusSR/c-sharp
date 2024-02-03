@@ -9,32 +9,44 @@ namespace Lista03Exe02
         {
             int x;
             int y;
-            do
+            bool val = false;
+
+            while (val == false)
             {
                 Console.Write("Eixo X: ");
-                x = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                x = int.Parse(Console.ReadLine());
+                
                 Console.Write("Eixo Y: ");
-                y = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                y = int.Parse(Console.ReadLine());
+
                 Console.Write("\n");
 
-                if ((x > 0) && (y > 0))
+                    if ((x > 0) && (y > 0))
                     {
-                        Console.WriteLine($"Coordenadas x = {x} e y = {y} está em PRIMEIRO");
+                        Console.WriteLine($"Coordenadas x = {x} e y = {y} está no PRIMEIRO \n");
+                        val = false;
                     }
                     else if ((x < 0) && (y > 0))
                     {
-                        Console.WriteLine($"Coordenadas x = {x} e y = {y} está em SEGUNDO");
+                        Console.WriteLine($"Coordenadas x = {x} e y = {y} está no SEGUNDO \n");
+                        val = false;
                     }
                     else if ((x < 0) && (y < 0))
                     {
-                        Console.WriteLine($"Coordenadas x = {x} e y = {y} está em TERCEIRO");
+                        Console.WriteLine($"Coordenadas x = {x} e y = {y} está no TERCEIRO \n");
+                        val = false;
                     }
                     else if ((x > 0) && (y < 0))
                     {
-                        Console.WriteLine($"Coordenadas x = {x} e y = {y} está em QUARTO");
+                        Console.WriteLine($"Coordenadas x = {x} e y = {y} está no QUARTO \n");
+                        val = false;
                     }
-                   
-            }while((x != 0) || (y != 0));
+                    else if ((x != 0) || (y != 0))
+                    {
+                        Console.WriteLine("SAINDO ... ");
+                        val = true;
+                    }
+            }
         }
     }
 }
