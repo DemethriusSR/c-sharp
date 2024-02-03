@@ -7,23 +7,25 @@ namespace POO_01
     {
         static void Main(string[] args)
         {
-            double xA, xB, xC, yA, yB, yC;
+            Triangulo x, y; //usando a Classe Triangulo referente aos atributos do triangulo
+            x = new Triangulo();
+            y = new Triangulo();
 
             Console.Write("Entre com medidas do triangulo X: ");
-            xA = double.Parse((Console.ReadLine()), CultureInfo.InvariantCulture);
-            xB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            xC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.A = double.Parse((Console.ReadLine()), CultureInfo.InvariantCulture);
+            x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.Write("Entre com medidas do triangulo y: ");
-            yA = double.Parse((Console.ReadLine()), CultureInfo.InvariantCulture);
-            yB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+             y.A = double.Parse((Console.ReadLine()), CultureInfo.InvariantCulture);
+             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (xA + xB + xC) / 2.0;
-            double areaX = Math.Sqrt(p * (p - xA) * (p - xB) * (p - xC));
+            double p = (x.A + x.B + x.C) / 2.0;
+            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
 
-            p = (yA + yB + yC) / 2.0;
-            double areaY = Math.Sqrt(p * (p - yA) * (p - yB) * (p - yC));
+            p = (y.A + y.B + y.C) / 2.0;
+            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
 
             Console.Write($"Area X = {areaX:F4} \n");
             Console.Write($"Area Y = {areaY:F4} \n");
