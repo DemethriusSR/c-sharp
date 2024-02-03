@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-/* Teste */
+/* Mostra quadrante do plano cartesiano de acordo com numero do usuário */
 namespace Lista03Exe02
 {
     class Program
