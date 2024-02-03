@@ -6,7 +6,7 @@ namespace BaseClasse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Escreva seu código aqui.")
+            Console.WriteLine("Escreva seu código aqui.");
         }
     }
 }
