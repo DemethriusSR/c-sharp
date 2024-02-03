@@ -43,8 +43,8 @@ namespace Lista03Exe02
                     }
                     else if ((x != 0) || (y != 0))
                     {
-                        Console.WriteLine("SAINDO ... ");
-                        val = true;
+                        Console.WriteLine("SAINDO DA TELA... ");
+                    val = true;
                     }
             }
         }
