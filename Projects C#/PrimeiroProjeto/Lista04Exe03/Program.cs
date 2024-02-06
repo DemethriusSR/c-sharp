@@ -9,7 +9,7 @@ namespace Lista04Exe03
         static void Main(string[] args)
         {
 
-            try
+            try // usando try catch para melhor visualização dos erros.
             {
                 Console.Write("Numero de casos: ");
                 int n = int.Parse(Console.ReadLine());
