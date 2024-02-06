@@ -1,5 +1,5 @@
 ﻿using System;
-/* Teste */
+/* Ler numeros e verificar se estão entre 10 e 20 */
 namespace Lista04Exe02
 {
     class Program
@@ -7,14 +7,18 @@ namespace Lista04Exe02
         static void Main(string[] args)
         {
             int x = 1,contIN = 0, contOut = 0;
+            Console.WriteLine("Escreva numeros maiores que zero: ");
 
             while (x > 0)
             {
-                Console.WriteLine("Escreva numeros maiores que zero: ");
                 x = int.Parse(Console.ReadLine());
-                    if ((x >= 10) || (x <= 20))
+                    if ((x >= 10) && (x <= 20))
                     {
                         contIN++;
+                    }
+                    else if (x < 0)
+                    {
+                        Console.WriteLine("SAINDO... \n");
                     }
                     else
                     {

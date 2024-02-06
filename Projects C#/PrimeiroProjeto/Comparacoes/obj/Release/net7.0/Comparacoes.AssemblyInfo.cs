@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Comparacoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8425b23feb42eaeb878ba61df1f1b18af25dbf8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd1c64dd27b71fee1051844567c248f6c527f60")]
 [assembly: System.Reflection.AssemblyProductAttribute("Comparacoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Comparacoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
