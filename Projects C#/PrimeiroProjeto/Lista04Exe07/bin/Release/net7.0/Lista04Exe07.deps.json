@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lista04Exe07/1.0.0": {
+        "runtime": {
+          "Lista04Exe07.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista04Exe07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
