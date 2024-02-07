@@ -18,6 +18,16 @@ namespace ExePooFixacao03
            return preco * qtd;
         }
 
+        public void AdicionarProdutos(int qte)
+        {
+            qtd += qte;
+        }
+
+        public void RemoveProdutos(int qte)
+        {
+            qtd -= qte;
+        }
+
         public override string ToString() //Usando a function ToString () utilizado para formatar saidas já pré defenidas
         {
             return nome 
