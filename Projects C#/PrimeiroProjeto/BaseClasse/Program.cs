@@ -6,6 +6,7 @@ namespace BaseClasse
     {
         static void Main(string[] args)
         {
+           
             Console.WriteLine("Numero: ");
             int num = int.Parse(Console.ReadLine());
         }
