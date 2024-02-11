@@ -12,24 +12,25 @@ namespace ExePooFixacao05
         public double SalBruto;
         public double Imposto;
         public double Porcento;
+        public double Result;
 
         public double SalarioLiquido()
         {
-            return SalBruto -= Imposto;
+            return Result =  SalBruto - Imposto;
         }
 
         public double AumentoSalario()
         {
-            return SalarioLiquido() + (SalBruto * Porcento);
+            return SalarioLiquido() + ( SalBruto * (Porcento/100) );
         }
             
         public override string ToString()
         {
-            return $"\n Nome: {Nome} "
-                +$" Salario Bruto R$ {SalBruto} "
-                +$"\n Imposto de {Imposto} %"
-                + $"\nFuncionario Nome: {Nome} "
-                + $" Salario Liquido R$ {AumentoSalario():F2} ";
+            return   $"\n Nome: {Nome} "
+                    +$"\n Salario Bruto R$ {SalBruto} "
+                    +$"\n Imposto de R$ {Imposto}"
+                    +$"\n Nome: {Nome} "
+                    +$"\n Salario Liquido R$ {AumentoSalario():F2} ";
         }
     }
 }

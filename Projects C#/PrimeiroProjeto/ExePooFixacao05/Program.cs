@@ -13,8 +13,6 @@ namespace ExePooFixacao05
             funcionario.SalBruto = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
             funcionario.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine(funcionario);
-
             Console.WriteLine("Para aumentar diga qual a Porcentagem ( ex: 10.0)");
             funcionario.Porcento = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
 
