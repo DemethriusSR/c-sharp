@@ -28,8 +28,8 @@ namespace ExePooFixacao05
             return $"\n Nome: {Nome} "
                 +$" Salario Bruto R$ {SalBruto} "
                 +$"\n Imposto de {Imposto} %"
-                + $"\n Nome: {Nome} "
-                + $"\n Salario Liquido R$ {SalarioLiquido():F2} ";
+                + $"\nFuncionario Nome: {Nome} "
+                + $" Salario Liquido R$ {AumentoSalario():F2} ";
         }
     }
 }
