@@ -1,0 +1,15 @@
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\bin\Release\net7.0\ExeFixacaoMembrosEstaticos.exe
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\bin\Release\net7.0\ExeFixacaoMembrosEstaticos.deps.json
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\bin\Release\net7.0\ExeFixacaoMembrosEstaticos.runtimeconfig.json
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\bin\Release\net7.0\ExeFixacaoMembrosEstaticos.dll
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\bin\Release\net7.0\ExeFixacaoMembrosEstaticos.pdb
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\ExeFixacaoMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\ExeFixacaoMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\ExeFixacaoMembrosEstaticos.AssemblyInfo.cs
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\ExeFixacaoMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\ExeFixacaoMembrosEstaticos.sourcelink.json
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\ExeFixacaoMembrosEstaticos.dll
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\refint\ExeFixacaoMembrosEstaticos.dll
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\ExeFixacaoMembrosEstaticos.pdb
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\ExeFixacaoMembrosEstaticos.genruntimeconfig.cache
+C:\Users\mnsdrodr\meus-projetos\c-sharp\Projects C#\PrimeiroProjeto\ExeFixacaoMembrosEstaticos\obj\Release\net7.0\ref\ExeFixacaoMembrosEstaticos.dll
