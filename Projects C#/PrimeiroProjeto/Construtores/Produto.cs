@@ -13,18 +13,28 @@ namespace Construtores
         public static double Preco;
         public static int Qtd;
 
-        public Produto (string nome, double preco, int qtd) // Construtor da Classe Produto
+
+        public Produto()
+        {
+            Qtd = 5;
+        }
+
+      /*  public Produto (string nome, double preco, int qtd) // Construtor da Classe Produto
         {
             Nome = nome;
             Preco = preco;
             Qtd = qtd;
-        }
+        }*/
 
-        public Produto (string nome, double preco) // Construtor de 2 elementos com QTD fixo da Classe Produto
+        public Produto (string nome, double preco) : this() // Construtor de 2 elementos com QTD fixo da Classe Produto
         {
             Nome = nome;
             Preco = preco;
-            Qtd = 5;
+        }
+
+        public Produto (string nome, double preco, int qtd) : this(nome,preco) // Construtor de 1 elemento aproveitando o construtor de 2 elementos
+        {
+            Qtd = qtd;
         }
 
         public static double ValorTotal()
