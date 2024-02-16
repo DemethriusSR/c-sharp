@@ -17,7 +17,7 @@ namespace Properties
         {
 
         }
-        public Produto(string nome, double preco, int qte) // Construtor da Classe Produto
+        public Produto(string nome, double preco, int qte) // Construtor da Classe produto
         {
             _nome = nome;
             _preco = preco;
