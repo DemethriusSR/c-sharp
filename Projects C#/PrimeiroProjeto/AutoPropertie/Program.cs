@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-/* Encapsulamento */
+/* AutoPropertie */
 namespace AutoPropertie
 {
     class Program
@@ -13,7 +13,7 @@ namespace AutoPropertie
                 Produto p = new Produto("TV", 500.00, 10);
 
                 Console.WriteLine(p.GetNome());
-                p.SetNome("TV 4K SAMSUNG");
+                p.SetNome("T");
 
                 Console.WriteLine(p.ToString());
 
