@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,37 +9,39 @@ namespace ExeFixacaoContrutoresPropertiesAutoproperties
 {
     class ContaBanco
     {
-        public int NumConta { get; set; }
+        public int NumConta { get; private set; }
 
-        private double _saldo;
+        public double Saldo { get; private set; }
 
-        private static string _nome;
+        public string Nome { get; set; }
 
 
-        public ContaBanco() { }
-
-        public void SetSaldo(double saldo){
-            _saldo = 0;
-        }
-        
-        public  ContaBanco ( int numConta, string nome): this()
-        {
+        public ContaBanco(int numConta, string nome) {
             NumConta = numConta;
-            _nome = nome;
+            Nome = nome;
         }
 
-        public void SetNome(string nome)
+       
+        
+        public  ContaBanco ( int numConta, string nome, double saldo): this(numConta,nome)
         {
-            if (nome != null && nome.Length > 1)
-            {
-                _nome = nome;
-            }
+            Saldo = saldo;
+        }
+
+        public void Deposito(double quantia)
+        {
+            Saldo += quantia;
+        }
+
+        public void Saque(double quantia)
+        {
+            Saldo -= quantia + 5.0;
         }
 
 
         public override string ToString()
         {
-            return $"Conta: {NumConta} | Nome: {_nome} | Saldo R$ {_saldo}\n\n";
+            return $"Conta: {NumConta} | Nome: {Nome} | Saldo R$ {Saldo.ToString("F2",CultureInfo.InvariantCulture)}\n\n";
         }
 
     }
