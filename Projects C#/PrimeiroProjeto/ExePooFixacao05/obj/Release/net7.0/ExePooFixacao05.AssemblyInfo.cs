@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExePooFixacao05")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b8c2a7e098a179e0eca66dc3cc683e023f4944")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea2c24c378e503f45f535d70a78a2857643b7fbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExePooFixacao05")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExePooFixacao05")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
