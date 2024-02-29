@@ -25,7 +25,7 @@ namespace ExeFixacaoContrutoresPropertiesAutoproperties
         
         public  ContaBanco ( int numConta, string nome, double saldo): this(numConta,nome)
         {
-            Saldo = saldo;
+            Deposito(saldo);
         }
 
         public void Deposito(double quantia)
