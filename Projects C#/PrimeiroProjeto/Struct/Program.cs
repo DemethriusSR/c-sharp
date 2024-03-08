@@ -1,5 +1,5 @@
 ﻿using System;
-/* Teste 02 */
+/* Aprendendo sobre Struc */
 namespace Struct
 {
     class Program
@@ -8,8 +8,11 @@ namespace Struct
         {
             Point p = new Point();
 
-            p.X = 10;
-            p.Y = 20;
+            Console.Write("Primeiro número ");
+            p.X = double.Parse(Console.ReadLine());
+
+            Console.Write("Segundo número ");
+            p.Y = double.Parse(Console.ReadLine());
 
             Console.WriteLine(p);
         }
