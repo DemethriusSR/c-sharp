@@ -10,7 +10,18 @@ namespace ExeFixacaoVetores02
     {
         public string Name { get; set; }
         public string Email { get; set; }
-        public int NumQuarto { get; set; }
+
+        public Cliente(string nome, string email)
+        {
+            Name = nome;
+            Email = email;
+        }
+
+        public override string ToString()
+        {
+            return $" Nome: {Name} " +
+                        $"e-mail: {Email}";
+        }
 
     }
 }
