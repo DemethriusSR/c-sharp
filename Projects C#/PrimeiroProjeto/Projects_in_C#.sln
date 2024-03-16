@@ -119,9 +119,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nullable", "Nullable\Nullab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores", "Vetores\Vetores.csproj", "{CC456859-7345-4E89-820E-1086AD630F6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeFixacaoVetores", "ExeFixacaoVetores\ExeFixacaoVetores.csproj", "{89BE7C65-7B52-4AEA-BDDF-0A589D4E49B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExeFixacaoVetores", "ExeFixacaoVetores\ExeFixacaoVetores.csproj", "{89BE7C65-7B52-4AEA-BDDF-0A589D4E49B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeFixacaoVetores02", "ExeFixacaoVetores02\ExeFixacaoVetores02.csproj", "{700CE567-A348-4BA5-9475-C642BD5408B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExeFixacaoVetores02", "ExeFixacaoVetores02\ExeFixacaoVetores02.csproj", "{700CE567-A348-4BA5-9475-C642BD5408B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Params", "Params\Params.csproj", "{56635087-A43F-4D53-AD6B-BC8C8D78237B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadoresParametros", "ModificadoresParametros\ModificadoresParametros.csproj", "{594B85E2-DF95-42BD-9648-2CE1A2A0F0DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -341,6 +345,14 @@ Global
 		{700CE567-A348-4BA5-9475-C642BD5408B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{700CE567-A348-4BA5-9475-C642BD5408B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{700CE567-A348-4BA5-9475-C642BD5408B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56635087-A43F-4D53-AD6B-BC8C8D78237B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56635087-A43F-4D53-AD6B-BC8C8D78237B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56635087-A43F-4D53-AD6B-BC8C8D78237B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56635087-A43F-4D53-AD6B-BC8C8D78237B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594B85E2-DF95-42BD-9648-2CE1A2A0F0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594B85E2-DF95-42BD-9648-2CE1A2A0F0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594B85E2-DF95-42BD-9648-2CE1A2A0F0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594B85E2-DF95-42BD-9648-2CE1A2A0F0DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -399,6 +411,8 @@ Global
 		{CC456859-7345-4E89-820E-1086AD630F6F} = {C207420D-F2E2-4A4D-9512-CF47515CF43B}
 		{89BE7C65-7B52-4AEA-BDDF-0A589D4E49B0} = {9296DBBB-69A3-456E-B794-A2FA42B8F129}
 		{700CE567-A348-4BA5-9475-C642BD5408B2} = {9296DBBB-69A3-456E-B794-A2FA42B8F129}
+		{56635087-A43F-4D53-AD6B-BC8C8D78237B} = {C207420D-F2E2-4A4D-9512-CF47515CF43B}
+		{594B85E2-DF95-42BD-9648-2CE1A2A0F0DE} = {C207420D-F2E2-4A4D-9512-CF47515CF43B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {178374A4-3358-4800-88F5-C11A0E9EB658}
