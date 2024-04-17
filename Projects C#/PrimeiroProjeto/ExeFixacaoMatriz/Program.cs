@@ -13,11 +13,12 @@ namespace ExeFixacaoMatriz
 
                 int count = 0;
 
-                int[,] matriz = new int[n, n];
+                int[,] matriz = new int[n, n]; //Declarando a Matriz
 
                 for (int i = 0; i < n; i++)
                 {
                     string[] values = Console.ReadLine().Split(' '); //Leitura dos valores da linha
+
                     for (int j = 0; j < n; j++)
                     {
                         matriz[i, j] = int.Parse(values[j]);
@@ -35,16 +36,16 @@ namespace ExeFixacaoMatriz
 
                 for (int i = 0; i < n; i++)
                 {
-                    for (int j = 0; j < n; j++)
-                    {
-                        if (matriz[i,j] < 0)
+                    for (int j = 0; j < n; j++) 
+                    { 
+                        if (matriz[i, j] < 0)
                         {
                             count++;
+                            
                         }
                     }
-                    Console.WriteLine($" {count} números negativos.");
-
                 }
+                Console.WriteLine($" {count} números negativos.");
 
             }
             catch (Exception e)
