@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-/* Teste 02 */
+/* Usando DateTime */
 namespace Date_Time
 {
     class Program
