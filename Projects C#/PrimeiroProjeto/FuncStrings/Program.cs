@@ -16,7 +16,7 @@ namespace FuncStrings
             int n2 = original.LastIndexOf("bc");
 
             string s4 = original.Substring(3);
-            string s5 = original.Substring(3,5);
+            string s5 = original.Substring(3, 5);
             string s6 = original.Replace('a', 'x');
             string s7 = original.Replace("abc", "xz");
 
