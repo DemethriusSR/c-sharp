@@ -8,9 +8,9 @@ namespace Time_Span
         {
             TimeSpan t1 = new TimeSpan();
             TimeSpan t2 = new TimeSpan(900000000L);
-            TimeSpan t3 = new TimeSpan(2,11,21);
-            TimeSpan t4 = new TimeSpan(1,2,11,21);
-            TimeSpan t5 = new TimeSpan(1,2,11,21,321);
+            TimeSpan t3 = new TimeSpan(2, 11, 21);
+            TimeSpan t4 = new TimeSpan(1, 2, 11, 21);
+            TimeSpan t5 = new TimeSpan(1, 2, 11, 21, 321);
 
             TimeSpan t6 = TimeSpan.FromDays(1.5);
             TimeSpan t7 = TimeSpan.FromHours(1.5);
