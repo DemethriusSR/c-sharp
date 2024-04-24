@@ -6,36 +6,37 @@ namespace SwitchCase
     {
         static void Main(string[] args)
         {
-            
+
             Console.Write("Dia: ");
             int x = int.Parse(Console.ReadLine());
             string day;
 
-            switch(x){
+            switch (x)
+            {
                 case 1:
                     day = "Sunday";
-                break;
+                    break;
                 case 2:
                     day = "Monday";
-                break;
+                    break;
                 case 3:
                     day = "Tuesday";
-                break;
+                    break;
                 case 4:
                     day = "Wednesday";
-                break;
+                    break;
                 case 5:
                     day = "Thursday";
-                break;
+                    break;
                 case 6:
                     day = "Friday";
-                break;
+                    break;
                 case 7:
                     day = "Saturday";
-                break;
+                    break;
                 default:
                     day = "Invalid Day";
-                break;
+                    break;
             }
             Console.WriteLine($"Your Choice is {day}");
 
