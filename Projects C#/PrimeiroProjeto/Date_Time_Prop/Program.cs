@@ -1,5 +1,5 @@
 ﻿using System;
-/* Vendo algumas propriedades do DateTime */
+/* Vendo algumas propriedades do DateTime 2 */
 namespace Date_Time_Prop
 {
     class Program
