@@ -6,7 +6,7 @@ namespace Date_Time_Prop
     {
         static void Main(string[] args)
         {
-            DateTime d = new DateTime(2001,8,15,13,45,58,245);
+            DateTime d = new DateTime(2001, 8, 15, 13, 45, 58, 245);
 
             string s1 = d.ToLongDateString();
             string s2 = d.ToLongTimeString();
