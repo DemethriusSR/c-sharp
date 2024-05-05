@@ -135,17 +135,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExeFixacaoLista", "ExeFixac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matriz", "Matriz\Matriz.csproj", "{D0CA401E-1582-46FB-ADC4-A8876E59F932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date_Time", "Date_Time\Date_Time.csproj", "{AC1B31DD-FE98-4385-A7A3-5BE354F658A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Date_Time", "Date_Time\Date_Time.csproj", "{AC1B31DD-FE98-4385-A7A3-5BE354F658A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date_Time_Prop", "Date_Time_Prop\Date_Time_Prop.csproj", "{B9093A42-6617-450B-AC28-80D1B326E277}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Date_Time_Prop", "Date_Time_Prop\Date_Time_Prop.csproj", "{B9093A42-6617-450B-AC28-80D1B326E277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeFixacaoMatriz", "ExeFixacaoMatriz\ExeFixacaoMatriz.csproj", "{147848EF-2324-43E4-B707-4EE7AA18C123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExeFixacaoMatriz", "ExeFixacaoMatriz\ExeFixacaoMatriz.csproj", "{147848EF-2324-43E4-B707-4EE7AA18C123}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncStrings", "FuncStrings\FuncStrings.csproj", "{9E8D0738-4555-4920-916E-3D7DB92C1A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncStrings", "FuncStrings\FuncStrings.csproj", "{9E8D0738-4555-4920-916E-3D7DB92C1A80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{1C05D3CD-681B-43CA-96CD-4AD5486AA6DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{1C05D3CD-681B-43CA-96CD-4AD5486AA6DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time_Span", "Time_Span\Time_Span.csproj", "{C378F71B-CF80-4A13-A823-4966C2D8B27A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time_Span", "Time_Span\Time_Span.csproj", "{C378F71B-CF80-4A13-A823-4966C2D8B27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerates", "Enumerates\Enumerates.csproj", "{4F4F2CD5-B08C-43FE-91CD-C1BA3FA50C54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -413,6 +415,10 @@ Global
 		{C378F71B-CF80-4A13-A823-4966C2D8B27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C378F71B-CF80-4A13-A823-4966C2D8B27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C378F71B-CF80-4A13-A823-4966C2D8B27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4F2CD5-B08C-43FE-91CD-C1BA3FA50C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4F2CD5-B08C-43FE-91CD-C1BA3FA50C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4F2CD5-B08C-43FE-91CD-C1BA3FA50C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4F2CD5-B08C-43FE-91CD-C1BA3FA50C54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -483,6 +489,7 @@ Global
 		{9E8D0738-4555-4920-916E-3D7DB92C1A80} = {C207420D-F2E2-4A4D-9512-CF47515CF43B}
 		{1C05D3CD-681B-43CA-96CD-4AD5486AA6DE} = {C207420D-F2E2-4A4D-9512-CF47515CF43B}
 		{C378F71B-CF80-4A13-A823-4966C2D8B27A} = {C207420D-F2E2-4A4D-9512-CF47515CF43B}
+		{4F4F2CD5-B08C-43FE-91CD-C1BA3FA50C54} = {C207420D-F2E2-4A4D-9512-CF47515CF43B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {178374A4-3358-4800-88F5-C11A0E9EB658}
